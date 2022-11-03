@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+
+int main() 
+{
+	char name []="Markos Iliopoulos"; 
+	
+	//printf("hello , World/n");
+printf("hello,World %s\n",name);
+return 0 ;
+}
